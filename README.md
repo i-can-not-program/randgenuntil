@@ -3,7 +3,7 @@ Python program that generates random numbers until the number generated is the s
 
 ## Help
 
-```
+```none
 usage: randgenuntil.py [-h] [-s START] [-e END] [-c] [-n] number
 
 positional arguments:
@@ -20,6 +20,5 @@ optional arguments:
 
 ### Contributing
 
-Please tell me if you think anything is wrong with it by creating an issue or if you fixed it, a pull request.
-If you created a new feature you can also create a pull request.
+If something is wrong with the code, there is a bug, or you want a feature, open a pull request if you fixed or made it, otherwise open an issue.
 
